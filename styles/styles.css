@@ -24,11 +24,11 @@
 .light-mode {
   --color-primary: #055267;
   --color-secondary: #05acbb;
-  --color-white: #edac6f;https://github.com/Parajuli30/Portfolio.git
-  --color-black: #080505;
-  --color-grey0: #035542dd;
-  --color-grey-1: #fbeeee;
-  --color-grey-2: #edac6f;
+  --color-white: #edac6f;
+  --color-black:#080505;
+  --color-grey0:#035542dd;
+  --color-grey-1:#fbeeee;
+  --color-grey-2:#edac6f;
   --color-grey-3: #09a256;
   --color-grey-4: #312f94;
   --color-grey-5: #f6f0f0;
